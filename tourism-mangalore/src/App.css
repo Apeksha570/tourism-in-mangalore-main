@@ -1,0 +1,176 @@
+/* App.css */
+.custom-navbar {
+	background-color: #9beeee;
+	padding: 10px 20px;
+}
+
+.brand-heading {
+	font-size: 24px;
+	font-weight: bold;
+	color: #343232;
+	text-decoration: none;
+}
+
+.nav-link,
+.dropdown-item {
+	color: #333;
+	text-decoration: none;
+	margin: 0 15px;
+}
+
+.nav-link:hover,
+.dropdown-item:hover {
+	color:rgb(203, 37, 31);
+}
+
+.custom-carousel {
+	margin-top: 20px;
+}
+
+.carousel-image {
+	height: 400px;
+	object-fit: cover;
+}
+
+/* App.css */
+/* ... Existing styles (unchanged) */
+
+.custom-carousel {
+	margin-top: 20px;
+}
+
+.carousel-image {
+	height: 400px;
+	object-fit: cover;
+}
+
+.custom-footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	flex-wrap: wrap;
+}
+
+.footer-section {
+	flex: 1 1 300px;
+	margin: 10px;
+}
+
+.footer-section h3 {
+	font-size: 18px;
+}
+
+.social-links {
+	list-style: none;
+	padding: 0;
+}
+
+.social-links li {
+	margin-bottom: 8px;
+}
+
+.social-links a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.social-links a:hover {
+	text-decoration: underline;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+input {
+	margin-bottom: 10px;
+	padding: 8px;
+}
+
+button {
+	background-color: #3498db;
+	color: #fff;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #2980b9;
+}
+
+/* App.css */
+/* ... Existing styles (unchanged) */
+
+.custom-carousel {
+	margin-top: 20px;
+}
+
+.carousel-image {
+	height: 600px;
+	object-fit: cover;
+}
+
+.custom-footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	flex-wrap: wrap;
+}
+
+.footer-section {
+	flex: 1 1 300px;
+	margin: 10px;
+}
+
+.footer-section h3 {
+	font-size: 18px;
+}
+
+.social-links {
+	list-style: none;
+	padding: 0;
+}
+
+.social-links li {
+	margin-bottom: 8px;
+}
+
+.social-links a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.social-links a:hover {
+	text-decoration: underline;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+input {
+	margin-bottom: 10px;
+	padding: 8px;
+}
+
+button {
+	background-color: #3498db;
+	color: #fff;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #2980b9;
+}
+
